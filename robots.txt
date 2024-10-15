@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://inevuape.github.io/SGP/sitemap_index.txt.gz
+Sitemap: https://inevuape.github.io/aPD/sitemap_index.txt.gz
+Sitemap: https://inevuape.github.io/mQE/sitemap_index.txt.gz
+Sitemap: https://inevuape.github.io/oAR/sitemap_index.txt.gz
+Sitemap: https://inevuape.github.io/saU/sitemap_index.txt.gz
+Sitemap: https://inevuape.github.io/sitemap/sitemap_index.txt.gz
